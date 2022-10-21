@@ -1,6 +1,6 @@
 def deposit(a):
   return a
-n=int(input("enter the amount")
+n=int(input("enter the amount"))
 v1=deposit(n)
 print(v1,"has been credited")
 def withdraw(b):
