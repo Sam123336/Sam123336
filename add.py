@@ -12,7 +12,7 @@ def fillList(myList):
 
     while number!=0:
         myList.append(number)
-        number =int(input("please enter a number:"))
+        number =int(input("please enter a numbers:"))
 def printList(myList):
     print("x".join(map(str,myList)),end=" ")
     print(math.prod(myList))
