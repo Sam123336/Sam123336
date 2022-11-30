@@ -2,7 +2,8 @@
 - 👀 I’m interested in Ai
 - 🌱 I’m currently learning Java,Python,Css,HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+linkdin account: https://www.linkedin.com/mwlite/in/sambit-ghosh-42b401240
 
 <!---
 Sam123336/Sam123336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
