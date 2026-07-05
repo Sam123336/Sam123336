@@ -15,7 +15,6 @@
 
 <img align="right" width="340" src="https://media.tenor.com/pDcT0vYOdckAAAAM/coding-3lines.gif" alt="Coding gif">
 
-
 name: Sambit Kumar Ghosh
 role: Backend Developer
 location: India 🇮🇳
@@ -43,4 +42,4 @@ location: India 🇮🇳
 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sam123336&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="GitHub Trophies"> </div> <!-- 🔝 Top Contributed Repo -->
 🔝 Top Contributed Repos
-<div align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=Sam123336&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo"> </div> <br/> <!-- ✨ Dev Quote --> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"> </div> <br/> <!-- 🐍 Contribution Snake --> <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"> </div> <!-- 👀 Visitors --> <div align="center"> <img src="https://visitcount.itsvg.in/api?id=Sam123336&icon=5&color=6" alt="Visit Counter"> </div> <!-- 🌊 Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="Footer" width="100%"> 
+<div align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=Sam123336&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo"> </div> <br/> <!-- ✨ Dev Quote --> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"> </div> <br/> <!-- 🐍 Contribution Snake --> <div align="center"> <img src="https://raw.githubusercontent.com/Sam123336/Sam123336/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"> </div> <!-- 👀 Visitors --> <div align="center"> <img src="https://visitcount.itsvg.in/api?id=Sam123336&icon=5&color=6" alt="Visit Counter"> </div> <!-- 🌊 Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="Footer" width="100%"> ```
